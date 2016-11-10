@@ -1,5 +1,5 @@
 {
-    "name": "administr/starter-5.3",
+    "name": "administrcms/starter-5.3",
     "description": "AdministrCMS starter based on Laravel 5.3.16.",
     "keywords": ["framework", "laravel", "starter", "administrcms", "administr"],
     "license": "MIT",
