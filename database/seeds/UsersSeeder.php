@@ -21,7 +21,7 @@ class UsersSeeder extends BaseSeeder
                 'email'     => 'test@test.com',
                 'password'  => Hash::make('password'),
                 'is_active' => true,
-            ]
+            ],
         ];
     }
 }
