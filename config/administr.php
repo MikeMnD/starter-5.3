@@ -6,7 +6,7 @@ return [
         'form',
     ],
     'sidebars'  => [
-
+        \App\Sidebars\AppSidebar::class,
     ],
     'hasLanguages' => true,
 ];
